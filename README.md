@@ -4,7 +4,7 @@
 - **Location:** Santa Fe, Argentina
 - **Quick Bio:** I'm a back end developer in *Java* with knowledge in *SQL*. Some time ago i learned *Javascript* and make an API using *MongoDB* but nowadays i'm focus on Java.
 - **Hobbies:** Videogames, series/movies.
-- **How to reach me:*** www.linkedin.com/in/alejo-galizzi
+- **How to reach me:** www.linkedin.com/in/alejo-galizzi
 
 <div align="center">
 <h3 align="center">Skills</h2>
