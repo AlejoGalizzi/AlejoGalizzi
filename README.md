@@ -29,15 +29,33 @@
 </td>
 <td width="25%" align="center">
 <span>MySQL</span><br>
-<img height="34px" src="https://user-images.githubusercontent.com/88806080/155042276-90cfa474-6469-4aec-8d90-bb8ede94f8f4.png">
+<img height="34px" src="https://user-images.githubusercontent.com/88806080/155042276-90cfa474-6469-4aec-8d90-bb8ede94f8f4.png" >
 </td>
 </tr>
 </tbody>
 </table>
 </div>
+<div align="center">
+<table>
+<tbody>
+<tr valign="top">
+<td width="25%" align="center">
+<span>Angular</span><br>
+<img height="34px" src="https://icongr.am/devicon/angularjs-original.svg">
+</td>
+<td width="25%" align="center">
+<span>React</span><br>
+<img height="34px" src="https://icongr.am/devicon/react-original.svg">
+</td>
+</tr>
+</table>
+</tbody>
+</div>
+
 
 <div align="center">
 	<a href="https://github-readme-stats.vercel.app/api?username=AlejoGalizzi&include_all_commits=true&show_icons=true&theme=radical">
 	<img src="https://github-readme-stats.vercel.app/api?username=AlejoGalizzi&include_all_commits=true&show_icons=true&theme=radical">
 	</a>
 </div>
+
