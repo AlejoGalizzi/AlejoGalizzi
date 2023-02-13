@@ -1,10 +1,10 @@
 <h1 align="center">Alejo Galizzi</h1>
 
 ## About Me
-- **Location:** Santa Fe, Argentina
-- **Quick Bio:** I'm a back end developer in **Java** with knowledge in **SQL**. A while ago I learned **Javascript** and made an API using **MongoDB** but nowadays I'm focused on **Java**.
-- **Hobbies:** Videogames, series/movies.
-- **How to reach me:** www.linkedin.com/in/alejo-galizzi
+- **Location** :round_pushpin: Santa Fe, Argentina
+- **Quick Bio** :notebook_with_decorative_cover: I'm a back end developer in **Java** with knowledge in **SQL**. A while ago I learned **Javascript** and made an API using **MongoDB** but nowadays I'm focused on **Java**.
+- **Hobbies** :computer: Videogames, series/movies.
+- **How to reach me** :email: www.linkedin.com/in/alejo-galizzi
 
 <div align="center">
 <h3 align="center">Skills</h2>
